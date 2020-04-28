@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    height: 900px;
+    width: 900px;
+    text-align: center;
+}
+
+header {
+    height: 10%;
+    width: 100%;
+    background-color: lightgray;
+    padding: 5px;
+    padding-left: 15px;
+}
+
+.header-square {
+    height: 80px;
+    width: 80px;
+    background-color: rgba(0, 132, 255, 0.808);
+}
+
+.white {
+    height: 25%;
+    width: 100%;
+    background-color: white;
+    font-size: 24px;
+    color: grey;
+    margin: auto;
+}
+
+div p {
+    margin: 50px;
+}
+
+.blue {
+    height: 15%;
+    width: 100%;
+    background-color: rgba(0, 132, 255, 0.808);
+}
+
+.green {
+    height: 15%;
+    width: 100%;
+    background-color: turquoise;
+}
+
+.olive {
+    height: 15%;
+    width: 100%;
+    background-color: lightgreen;
+}
+
+.yellow {
+    height: 15%;
+    width: 100%;
+    background-color: yellow;
+}
